@@ -4,5 +4,4 @@
 # update the Application-A
 
 
-# update in dev - C Application
-
+# update in dev - C App
